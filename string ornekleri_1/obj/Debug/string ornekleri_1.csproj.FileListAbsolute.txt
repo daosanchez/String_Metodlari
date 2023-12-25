@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\string ornekleri_1\string ornekleri_1\bin\Debug\string ornekleri_1.exe.config
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\string ornekleri_1\string ornekleri_1\bin\Debug\string ornekleri_1.exe
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\string ornekleri_1\string ornekleri_1\bin\Debug\string ornekleri_1.pdb
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\string ornekleri_1\string ornekleri_1\obj\Debug\string ornekleri_1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\string ornekleri_1\string ornekleri_1\obj\Debug\string ornekleri_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\string ornekleri_1\string ornekleri_1\obj\Debug\string_ornekleri_1.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\string ornekleri_1\string ornekleri_1\obj\Debug\string_ornekleri_1.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\string ornekleri_1\string ornekleri_1\obj\Debug\string ornekleri_1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\string ornekleri_1\string ornekleri_1\obj\Debug\string ornekleri_1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\string ornekleri_1\string ornekleri_1\obj\Debug\string ornekleri_1.exe
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\string ornekleri_1\string ornekleri_1\obj\Debug\string ornekleri_1.pdb
